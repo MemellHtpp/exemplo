@@ -1,5 +1,7 @@
 
-print('hello word')
+n = 2
 
-if(True):
+if(n > 1):
     print("mell bonita")
+
+
